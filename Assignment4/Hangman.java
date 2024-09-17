@@ -7,6 +7,23 @@
  *lose one chance and draw one part of one man till you lose all the game, you will draw a whole man.
  * while you are right it will display where the word you guess in the right letter. Finally if you 
  * guess all the words of the letter, you will win.
+ * 
+ * * * Total grade: 85
+
+ * How to grade:
+
+ * 1. Must run correct (60%): 50
+
+ * 2. Proper Comments: file comment and function comment (10%): 10
+
+ * 3. Follow the style guideline (10%): 7
+
+ * 4. A right "top-down" Decomposition (20%): 18
+
+ * 5. If late one-day, reduce 10%。
+ * run correctly(60):
+ * format(10):
+ * comment(10):
  */
  
 import acm.graphics.*;
